@@ -39,15 +39,12 @@ body{
 
 .menu li{
     border-left: none;
-    padding: 8px 25px;
+    padding: 8px 30px;
 }
 .menu a{
-    text-decoration: none;
+    border-left: none;
 }
 
-.content{
-
-}
 
 .content h1{
     font: normal 24px "Tiimes New Roman";
@@ -81,4 +78,9 @@ body{
     display: flex;
     justify-content: space-between;
     
+}
+
+
+.swiper-slide img{
+    width: 100%;
 }
