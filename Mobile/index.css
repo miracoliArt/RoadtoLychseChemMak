@@ -38,7 +38,7 @@ header{
 }
 
 .menu a{
-    transition-duration: 0.6s;
+    transition: color 0.3s ease-in;
     text-decoration: none;
     color: aliceblue;
     font-family: Gill Sans Extrabold, sans-serif;
